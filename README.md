@@ -1,1 +1,2 @@
-# lpu_mern_2024
+# ProjectIdea
+e-Banking site
